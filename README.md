@@ -1,4 +1,4 @@
-# Unhinted Iosevkass17 WebFont 33.2.2
+# Unhinted Iosevkass17 WebFont 33.2.3
 
 ## How to use
 
